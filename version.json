@@ -1,13 +1,13 @@
 {
     "version": "1.0",
     "files": {
-        "lastsize": "https://github.com/user55672/Old-Card/raw/refs/heads/main/Hudloader/1.asi",
-        "harnelo": "https://github.com/user55672/Old-Card/raw/refs/heads/main/Hudloader/2.asi",
-        "baxa": "https://github.com/user55672/Old-Card/raw/refs/heads/main/Hudloader/3.asi",
-        "kastryla": "https://github.com/user55672/Old-Card/raw/refs/heads/main/Hudloader/4.asi",
-        "balamor": "https://github.com/user55672/Old-Card/raw/refs/heads/main/Hudloader/5.asi",
-        "yoasdp": "https://github.com/user55672/Old-Card/raw/refs/heads/main/Hudloader/6.asi",
-        "stepa": "https://github.com/user55672/Old-Card/raw/refs/heads/main/Hudloader/7.asi",
-        "milka": "https://github.com/user55672/Old-Card/raw/refs/heads/main/Hudloader/8.asi"
+        "lastsize": "https://github.com/user55672/Old-Card/raw/refs/heads/main/Hudloader/lastsize/Hudloader.asi",
+        "harnelo": "https://github.com/user55672/Old-Card/raw/refs/heads/main/Hudloader/harnelo/Hudloader.asi",
+        "baxa": "https://github.com/user55672/Old-Card/raw/refs/heads/main/Hudloader/baxa/Hudloader.asi",
+        "kastryla": "https://github.com/user55672/Old-Card/raw/refs/heads/main/Hudloader/kastryla/Hudloader.asi",
+        "balamor": "https://github.com/user55672/Old-Card/raw/refs/heads/main/Hudloader/balamor/Hudloader.asi",
+        "yoasdp": "https://github.com/user55672/Old-Card/raw/refs/heads/main/Hudloader/yoasdp/Hudloader.asi",
+        "stepa": "https://github.com/user55672/Old-Card/raw/refs/heads/main/Hudloader/stepa/Hudloader.asi",
+        "milka": "https://github.com/user55672/Old-Card/raw/refs/heads/main/Hudloader/milka/Hudloader.asi"
     }
 }
